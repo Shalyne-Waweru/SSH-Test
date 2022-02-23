@@ -19,3 +19,15 @@
   border-top: 6px solid orange;
   border-bottom: 8px solid black;
 }
+.cats p {
+  background-color: gray;
+}
+.dogs p {
+  background-color: steelblue;
+}
+.cats p a {
+  font-weight: bold;
+}
+.dogs p a {
+  font-style: italic;
+}

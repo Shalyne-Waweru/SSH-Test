@@ -10,3 +10,15 @@ p.author {
 .footer {
   text-align: center;
 }
+img {
+  float: left;
+}
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color: yellow;
+}
+.column {
+  width: 500px;
+  float: left;
+}

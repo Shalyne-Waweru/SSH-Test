@@ -1,0 +1,12 @@
+.intro {
+  font-style: italic;
+}
+.author {
+  color: #f00;
+}
+p.author {
+  font-size: 12px;
+}
+.footer {
+  text-align: center;
+}
